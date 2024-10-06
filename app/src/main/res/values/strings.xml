@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">mydicodingproject</string>
+
+    <string name="rappers_name">Nama Rapper</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Kanye West</item>
+        <item>Jay-Z</item>
+        <item>Eminem</item>
+        <item>Tupac Shakur</item>
+        <item>The Notorious B.I.G.</item>
+        <item>Drake</item>
+        <item>Nas</item>
+        <item>Kendrick Lamar</item>
+        <item>Lil Wayne</item>
+        <item>Snoop Dogg</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Rapper and producer from Chicago known for hits like "Stronger" and "Gold Digger." Famous for blending hip-hop, electronic, and soul.</item>
+        <item>Brooklyn rapper and businessman with classic albums like "The Blueprint" and "Reasonable Doubt." Successful in music, fashion, and sports.</item>
+        <item>Detroit rapper known for his fast flow and complex lyrics. Hits include "Lose Yourself" and "Rap God."</item>
+        <item>West Coast rapper known for pioneering gangsta rap. Hits include "Gin and Juice" and "Drop It Like It's Hot."</item>
+        <item>East Coast rapper famous for storytelling in songs like "Juicy" and "Big Poppa."</item>
+        <item>Canadian rapper blending rap with RNB and pop. Notable albums include "Take Care" and "Scorpion."</item>
+        <item>Lyricist known for introspective and socially aware lyrics. Influential in rap for his storytelling and poetic style.</item>
+        <item>Compton rapper known for socially conscious lyrics in albums like "To Pimp a Butterfly" and "DAMN."</item>
+        <item>Known for wordplay and Southern rap style. Continues to push genre boundaries with creative albums.</item>
+        <item>West Coast rapper with a unique style combining street authenticity and mainstream appeal.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/kanyewest</item>
+        <item>@drawable/jayz</item>
+        <item>@drawable/eminem</item>
+        <item>@drawable/tupacshakur</item>
+        <item>@drawable/notorious</item>
+        <item>@drawable/drake</item>
+        <item>@drawable/nas</item>
+        <item>@drawable/kendricklamar</item>
+        <item>@drawable/lilwayne</item>
+        <item>@drawable/snoopdog</item>
+    </integer-array>
+
+    <string-array name="data_albums">
+        <item>"The College Dropout", "Graduation", "My Beautiful Dark Twisted Fantasy"</item>
+        <item>"The Blueprint", "Reasonable Doubt", "4:44"</item>
+        <item>"The Slim Shady LP", "The Marshall Mathers LP", "Recovery"</item>
+        <item>"All Eyez on Me", "Me Against the World", "Strictly 4 My N.I.G.G.A.Z."</item>
+        <item>"Ready to Die", "Life After Death", "Born Again"</item>
+        <item>"Take Care", "Nothing Was the Same", "Scorpion"</item>
+        <item>"Illmatic", "Stillmatic", "God's Son"</item>
+        <item>"good kid, m.A.A.d city", "To Pimp a Butterfly", "DAMN."</item>
+        <item>"Tha Carter III", "Rebirth", "I Am Not a Human Being"</item>
+        <item>"Doggystyle", "Tha Blue Carpet Treatment", "Ego Trippin'"</item>
+    </string-array>
+
+    <string-array name="data_awards">
+        <item>"22 Grammy Awards, 100+ other awards including BET and Billboard Awards"</item>
+        <item>"23 Grammy Awards, Rock and Roll Hall of Fame inductee"</item>
+        <item>"15 Grammy Awards, Academy Award for Best Original Song"</item>
+        <item>"MTV Video Music Awards, American Music Awards, Hip Hop Hall of Fame"</item>
+        <item>"3 Grammy Awards, Billboard Music Award, MTV Video Music Award"</item>
+        <item>"4 Grammy Awards, 27 Billboard Music Awards"</item>
+        <item>"13 Grammy Nominations, BET Hip Hop Award for Lyricist of the Year"</item>
+        <item>"13 Grammy Awards, Pulitzer Prize for Music (2018)"</item>
+        <item>"5 Grammy Awards, Billboard Music Award for Top Rap Artist"</item>
+        <item>"1 Grammy Award, BET Lifetime Achievement Award"</item>
+    </string-array>
+
+    <string name="menu_list">List View</string>
+    <string name="menu_grid">Grid View</string>
+
+    <string name="detail_title">Rapper Details</string>
+
+    <string name="about_page">About Page</string>
+    <string name="my_name">Nama : Septian Wijaya</string>
+    <string name="my_email">Email : a195b4ky4107@bangkit.academy</string>
+    <string name="back" />
+</resources>
